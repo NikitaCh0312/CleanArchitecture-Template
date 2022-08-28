@@ -1,1 +1,1 @@
-# CodeExample
+# clean architecture project template
